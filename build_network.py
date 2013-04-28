@@ -71,9 +71,9 @@ cursor = myconnect.cursor()
 
 #auth tweepy
 CONSUMER_KEY ='Yes924iIs2v8SeUO0mu7WA'
-CONSUMER_SECRET = 'cuowZIBvqOHGx34fLb4VZNmPp7mNwkWt2lWwq7xxM'
+CONSUMER_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ACCESS_KEY = '86185051-r798E9865tV3THupBF6fj1elNz8sSVfckXqMs23Cx'
-ACCESS_SECRET = '5YEPYESJeFs7oY71vqFxTZ5We0tryX51Jv2ig2MX1Y'
+ACCESS_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
